@@ -8,6 +8,11 @@ body{
 	font-family: 'Oswald', Arial, sans-serif;
 	font-size: 13px;
 }
+
+#id22 {
+  display: none;
+}
+
 .container{
 	position:relative;
 }
